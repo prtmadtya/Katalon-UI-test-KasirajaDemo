@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dd_hai</name>
+   <tag></tag>
+   <elementGuidId>f7318aac-21ac-4208-ab15-7e63525e7bb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>dd.chakra-stat__number.css-1axeus7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div/div/dl/dd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>dd</value>
+      <webElementGuid>166a131e-a9f0-4e51-85e3-9038d9611731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-stat__number css-1axeus7</value>
+      <webElementGuid>e2757fd5-0ab9-4154-8683-9e360140d833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>hai</value>
+      <webElementGuid>4a8419fc-b980-4857-bfbf-734b53c07761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1r35f0l&quot;]/div[@class=&quot;chakra-container css-9rmdie&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-trlcwy&quot;]/div[@class=&quot;css-13pc7q0&quot;]/div[@class=&quot;chakra-stat css-1mbo1ls&quot;]/dl[1]/dd[@class=&quot;chakra-stat__number css-1axeus7&quot;]</value>
+      <webElementGuid>e4e00e3b-d4f8-40b5-bb20-d3b18ba416d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div/div/dl/dd</value>
+      <webElementGuid>313fdbf6-7080-48a3-b169-4a69729f25ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tokoku'])[2]/following::dd[1]</value>
+      <webElementGuid>b987c7ca-0aed-4cda-a4fc-1a78d20c49f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='logout'])[1]/following::dd[1]</value>
+      <webElementGuid>9ca979e0-dcb5-4a5e-b1be-70fe11e742fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='penjualan'])[2]/preceding::dd[1]</value>
+      <webElementGuid>b86a7ef1-f6a8-4770-83c2-ce7d0a7a2e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='decreased by'])[1]/preceding::dd[2]</value>
+      <webElementGuid>d1dce929-d305-4415-ae8c-2a20d9769cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='hai']/parent::*</value>
+      <webElementGuid>3cde75b1-ea58-48ed-a544-668b53e1dee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dd</value>
+      <webElementGuid>43ba386f-36a2-4c22-9871-dfbb9b7c5559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//dd[(text() = 'hai' or . = 'hai')]</value>
+      <webElementGuid>cc66e224-3940-4443-96b8-0e3bf8c0de5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

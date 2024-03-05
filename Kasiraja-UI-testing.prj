@@ -4,9 +4,10 @@
    <name>Kasiraja-UI-testing</name>
    <tag></tag>
    <UUID>b81a2aca-0b9b-48e4-b077-93df8f53b0a0</UUID>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Aditya\Katalon Studio\Kasiraja-UI-testing\Kasiraja-UI-testing.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

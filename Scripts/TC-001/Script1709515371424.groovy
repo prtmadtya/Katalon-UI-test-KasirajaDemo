@@ -25,9 +25,9 @@ WebUI.click(findTestObject('RegisterPage/a_ingin mencoba, daftar'), FailureHandl
 
 WebUI.setText(findTestObject('RegisterPage/input_nama toko_name'), 'Toko Berkah', FailureHandling.OPTIONAL)
 
-WebUI.setText(findTestObject('RegisterPage/input_email_email'), 'berkahstore@mailsec.com', FailureHandling.OPTIONAL)
+WebUI.setText(findTestObject('RegisterPage/input_email_email'), 'tokoku@mailsec.com', FailureHandling.OPTIONAL)
 
-WebUI.setText(findTestObject('RegisterPage/input_password_password'), 'pass1234', FailureHandling.OPTIONAL)
+WebUI.setText(findTestObject('RegisterPage/input_password_password'), 'pass1234', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('RegisterPage/button_daftar'), FailureHandling.OPTIONAL)
 

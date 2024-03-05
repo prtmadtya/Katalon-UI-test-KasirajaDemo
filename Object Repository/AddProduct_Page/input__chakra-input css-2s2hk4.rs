@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__chakra-input css-2s2hk4</name>
+   <tag></tag>
+   <elementGuidId>91a86766-aff3-44b4-9d71-49cc58b51985</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.chakra-input.css-2s2hk4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9905b2b1-3130-43e9-b54e-e433cb9732c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>cari</value>
+      <webElementGuid>d744e518-f882-4617-9a6d-df6654c52b40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-input css-2s2hk4</value>
+      <webElementGuid>3915fd58-b4eb-4096-9a57-02c9cd4ca04c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-41&quot;)/div[@class=&quot;css-6co16k&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;chakra-input__group css-4302v8&quot;]/input[@class=&quot;chakra-input css-2s2hk4&quot;]</value>
+      <webElementGuid>686f55e8-cd2d-48d1-8f6f-b006ada1b88e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[6]</value>
+      <webElementGuid>f1f37557-3d46-4640-b9be-5cc32eeffd23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-41']/div/div/div/input</value>
+      <webElementGuid>3c1a459f-d44a-46ce-b0c8-40632859f412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/input</value>
+      <webElementGuid>5d6a9ede-fb25-4e72-9b6e-ad551b9f2204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'cari']</value>
+      <webElementGuid>3713c48b-b417-49e0-bc77-1fa1f2898566</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

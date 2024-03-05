@@ -17,19 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://kasirdemo.belajarqa.com', FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('https://kasirdemo.belajarqa.com', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementPresent(findTestObject('RegisterPage/h2_hai, kasirAja'), 0, FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementPresent(findTestObject('LoginPage/LoginPage'), 0, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('RegisterPage/a_ingin mencoba, daftar'), FailureHandling.STOP_ON_FAILURE)
+WebUI.setText(findTestObject('LoginPage/input_email_email'), 'huahaha@mailsec.com', FailureHandling.OPTIONAL)
 
-WebUI.setText(findTestObject('RegisterPage/input_nama toko_name'), 'Toko Berkah', FailureHandling.STOP_ON_FAILURE)
+WebUI.setText(findTestObject('LoginPage/input_password_password'), 'pass1234', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('RegisterPage/input_email_email'), '', FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('LoginPage/button_login'), FailureHandling.OPTIONAL)
 
-WebUI.setText(findTestObject('RegisterPage/input_password_password'), 'pass1234', FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('LoginPage/div_email must be a valid email'), 'Kredensial yang Anda berikan salah')
 
-WebUI.click(findTestObject('RegisterPage/button_daftar'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
+WebUI.closeBrowser(FailureHandling.OPTIONAL)
 
