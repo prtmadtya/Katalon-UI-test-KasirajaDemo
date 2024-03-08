@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_nama</name>
+   <tag></tag>
+   <elementGuidId>c127fda6-062d-41f7-8c6c-f864a5344817</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chakra-modal--body-31']/table/thead/tr/th[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>c8b756fe-23e0-4252-8b66-b69d263540d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-jfypmb</value>
+      <webElementGuid>bab74a54-bebc-4ca2-ae73-93aa54744209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>nama</value>
+      <webElementGuid>17b982fb-1443-4833-b7a0-f2e5e8d15892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-31&quot;)/table[@class=&quot;chakra-table css-fqy1u9&quot;]/thead[@class=&quot;css-0&quot;]/tr[@class=&quot;css-0&quot;]/th[@class=&quot;css-jfypmb&quot;]</value>
+      <webElementGuid>fbd23d33-5009-48e9-9599-d6360152236d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-31']/table/thead/tr/th[2]</value>
+      <webElementGuid>9d2f85a2-1938-4e40-a068-2c20fc775430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kode'])[2]/following::th[1]</value>
+      <webElementGuid>867b2496-8ea7-43b9-8982-35202b9f23e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::th[2]</value>
+      <webElementGuid>5a36e202-bf04-45e2-a0f9-1b8db112979a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kategori'])[2]/preceding::th[1]</value>
+      <webElementGuid>e8862ad6-87d6-4e2a-bee5-c799d7525c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='harga'])[2]/preceding::th[2]</value>
+      <webElementGuid>8d85d8cd-436a-4b34-b39d-5b3e87ec5814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/table/thead/tr/th[2]</value>
+      <webElementGuid>9d3ff61a-73a0-4a2e-9343-d596040637b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'nama' or . = 'nama')]</value>
+      <webElementGuid>cbc78be6-4d02-4b38-8781-97062da11cd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

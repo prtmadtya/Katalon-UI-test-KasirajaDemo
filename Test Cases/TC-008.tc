@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>add halaman penjualan</description>
+   <name>TC-008</name>
+   <tag>@positive @penjualan</tag>
+   <comment></comment>
+   <testCaseGuid>cf0e9fa2-12cb-4ed6-9383-dab01a7aba92</testCaseGuid>
+</TestCaseEntity>

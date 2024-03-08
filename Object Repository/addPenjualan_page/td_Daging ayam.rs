@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Daging ayam</name>
+   <tag></tag>
+   <elementGuidId>67b2ce20-946d-40d3-9f09-991b3eaeb791</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chakra-modal--body-31']/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>803be3a5-2f6e-424e-92fb-7b200b073b05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>96fc813a-6abc-4c77-9d33-653a4df45541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-u3dlpe</value>
+      <webElementGuid>6ddc30e1-b8a0-415a-ba05-d6ad303b6190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daging ayam</value>
+      <webElementGuid>f54ad06e-5c69-48e7-96f8-ea92d2775c3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-31&quot;)/table[@class=&quot;chakra-table css-fqy1u9&quot;]/tbody[@class=&quot;css-0&quot;]/tr[@class=&quot;css-13n66qk&quot;]/td[@class=&quot;css-u3dlpe&quot;]</value>
+      <webElementGuid>04836252-7ba6-4fd5-a9cb-365a1c963a0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-31']/table/tbody/tr/td[2]</value>
+      <webElementGuid>318fa0e7-4c68-4a6e-a51c-23fef7821b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BR498454'])[2]/following::td[1]</value>
+      <webElementGuid>9fff4b0e-7b02-4d81-8410-aa40d38fddb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='deskripsi'])[1]/following::td[2]</value>
+      <webElementGuid>62e60139-a63b-48e8-b381-d0dee67ef179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahan Pokok'])[1]/preceding::td[1]</value>
+      <webElementGuid>7d6085d1-5830-4e9c-a749-86ba44ebe65c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='daging ayam fillet'])[1]/preceding::td[4]</value>
+      <webElementGuid>6f744691-b6eb-4cf2-ae71-ec599cfab27c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>309a6e11-d28d-4c10-b385-e6578edd64bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Daging ayam' or . = 'Daging ayam')]</value>
+      <webElementGuid>c4e64b70-6ebd-4817-ae2e-5eb8d04cdd51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BR498454'])[1]/following::td[1]</value>
+      <webElementGuid>ec036ae6-93ca-42d3-88ac-6b1cf0d57f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daging ayam']/parent::*</value>
+      <webElementGuid>6e032943-8b0e-4f8e-a977-c7e10eb2d5c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>f078349e-e4c7-4518-95e1-7e91317bb704</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_17.000</name>
+   <tag></tag>
+   <elementGuidId>c7cb49a4-9cfb-42fd-857a-3da7f32acb2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div/div[2]/div[2]/div[2]/div[2]/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>b2bce9eb-3ceb-40fa-93d5-1990fa677cb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-heading css-1dklj6k</value>
+      <webElementGuid>c1ccaed5-1d1b-4eee-a7e5-582e033a28ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>17.000</value>
+      <webElementGuid>62491d37-d787-4ae3-a908-2d4d6c06771d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1r35f0l&quot;]/div[@class=&quot;chakra-container css-9rmdie&quot;]/div[@class=&quot;css-1fkz4uk&quot;]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1ba3qpq&quot;]/div[@class=&quot;css-9jay18&quot;]/div[@class=&quot;css-0&quot;]/h2[@class=&quot;chakra-heading css-1dklj6k&quot;]</value>
+      <webElementGuid>f0e749d1-ec51-4699-81ad-9e1ffa3aacf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div[2]/div[2]/div[2]/div[2]/h2</value>
+      <webElementGuid>a1f91c81-b1de-4743-9473-58f0ce74d456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::h2[1]</value>
+      <webElementGuid>a6f94880-58a3-4a09-8a22-fb8e8eb8d670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tepung Terigu'])[1]/following::h2[2]</value>
+      <webElementGuid>7e36c11e-3177-4ece-afdb-e9ae7624e116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayar'])[1]/preceding::h2[1]</value>
+      <webElementGuid>1e1289fb-4dae-4d28-924a-cb51ab764506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h2</value>
+      <webElementGuid>2038737f-de98-44d4-adbd-1e721c7c8e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '17.000' or . = '17.000')]</value>
+      <webElementGuid>33d40317-9bd5-4b03-8bdf-654f0fd79986</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

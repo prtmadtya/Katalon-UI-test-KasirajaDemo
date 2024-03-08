@@ -29,23 +29,19 @@ WebUI.setText(findTestObject('AddPembelian_page/input_password_password'), 'pass
 
 WebUI.click(findTestObject('AddPembelian_page/button_login'))
 
-WebUI.click(findTestObject('AddPembelian_page/div_pembelian'))
+WebUI.click(findTestObject('addPenjualan_page/div_penjualan'))
 
-WebUI.click(findTestObject('AddPembelian_page/a_tambah'))
+WebUI.verifyElementPresent(findTestObject('addPenjualan_page/div_dashboard   penjualan'), 3)
 
-WebUI.click(findTestObject('AddPembelian_page/button_produk'))
+WebUI.click(findTestObject('addPenjualan_page/a_tambah'))
 
-WebUI.click(findTestObject('AddPembelian_page/div__chakra-input__right-addon css-7nrq'))
+//WebUI.click(findTestObject('addPenjualan_page/button_produk'))
 
-WebUI.setText(findTestObject('AddPembelian_page/input__chakra-input css-2s2hk4'), 'bahan pokok')
+//WebUI.verifyElementPresent(findTestObject('Object Repository/addPenjualan_page/header_produk'), 3)
 
-WebUI.click(findTestObject('AddPembelian_page/td_Bahan Pokok'))
+//WebUI.click(findTestObject('addPenjualan_page/td_Daging ayam'))
 
-WebUI.setText(findTestObject('AddPembelian_page/input__chakra-input css-2s2hk4'), 'Daging')
-
-WebUI.click(findTestObject('AddPembelian_page/td_BR558672'))
-
-WebUI.click(findTestObject('AddPembelian_page/button_Simpan'))
+WebUI.click(findTestObject('addPenjualan_page/button_Bayar'))
 
 WebUI.closeBrowser()
 

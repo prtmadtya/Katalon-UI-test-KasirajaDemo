@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Tepung Terigu</name>
+   <tag></tag>
+   <elementGuidId>5e80f784-89e5-46eb-ae07-0b15917fdb9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chakra-modal--body-31']/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>9fb04a89-4c8a-4d01-8c22-6a6671943846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>a5153943-313a-4496-aa83-f8a7c6d613bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-u3dlpe</value>
+      <webElementGuid>10f7d355-0fc6-4753-89cf-1ba8e02950b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tepung Terigu</value>
+      <webElementGuid>8d8d028d-c93e-4713-9759-c9c73a0fde46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-31&quot;)/table[@class=&quot;chakra-table css-fqy1u9&quot;]/tbody[@class=&quot;css-0&quot;]/tr[@class=&quot;css-13n66qk&quot;]/td[@class=&quot;css-u3dlpe&quot;]</value>
+      <webElementGuid>f1d0a171-c378-4666-a296-531ae59978e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-31']/table/tbody/tr/td[2]</value>
+      <webElementGuid>20baed10-a343-4689-a37f-c2221e93eeaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BR376567'])[1]/following::td[1]</value>
+      <webElementGuid>e479afdb-450e-4bf7-9514-1da5e990ac1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='deskripsi'])[1]/following::td[2]</value>
+      <webElementGuid>41541fbc-9856-4bfb-ae6e-c57577bbfad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Umum'])[1]/preceding::td[1]</value>
+      <webElementGuid>2918bfab-9b9e-4209-8ccd-b725ecd93372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tepung Terigu Cap Segitiga'])[1]/preceding::td[4]</value>
+      <webElementGuid>a7976f02-aabf-445c-8ba1-b82f4b9225a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tepung Terigu']/parent::*</value>
+      <webElementGuid>a1a57064-24df-4f39-ac9c-1433a8a4866f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>613f78d5-242b-4dcc-96cf-c204b8508c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Tepung Terigu' or . = 'Tepung Terigu')]</value>
+      <webElementGuid>00b0ef6e-96d5-4727-81cf-5abdc17c3c8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

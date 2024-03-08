@@ -35,9 +35,9 @@ WebUI.verifyElementPresent(findTestObject('AddProduct_Page/h2_dashboard   produk
 
 WebUI.click(findTestObject('AddProduct_Page/a_tambah'))
 
-WebUI.setText(findTestObject('AddProduct_Page/input_nama_nama'), 'Lampu')
+WebUI.setText(findTestObject('AddProduct_Page/input_nama_nama'), 'Daging ayam')
 
-WebUI.setText(findTestObject('AddProduct_Page/input_deskripsi_deskripsi'), 'Philips')
+WebUI.setText(findTestObject('AddProduct_Page/input_deskripsi_deskripsi'), 'daging ayam fillet')
 
 WebUI.setText(findTestObject('AddProduct_Page/input_harga beli_harga beli'), '16000')
 
