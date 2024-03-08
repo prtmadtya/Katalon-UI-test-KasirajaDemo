@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://kasirdemo.belajarqa.com')
 
-WebUI.verifyElementPresent(findTestObject('AddProduct_Page/h2_hai, kasirAja'), 0)
+WebUI.verifyElementPresent(findTestObject('AddProduct_Page/h2_hai, kasirAja'), 4)
 
 WebUI.setText(findTestObject('AddProduct_Page/input_email_email'), 'tokoku@mailsec.com')
 
@@ -29,23 +29,21 @@ WebUI.setText(findTestObject('AddProduct_Page/input_password_password'), 'pass12
 
 WebUI.click(findTestObject('AddProduct_Page/button_login'))
 
-WebUI.verifyElementPresent(findTestObject('AddProduct_Page/dd_hai'), 0)
-
 WebUI.click(findTestObject('AddProduct_Page/div_produk'))
 
-WebUI.verifyElementPresent(findTestObject('AddProduct_Page/h2_dashboard   produk    baru'), 0)
+WebUI.verifyElementPresent(findTestObject('AddProduct_Page/h2_dashboard   produk    baru'), 4)
 
 WebUI.click(findTestObject('AddProduct_Page/a_tambah'))
 
-WebUI.setText(findTestObject('AddProduct_Page/input_nama_nama'), 'Daging')
+WebUI.setText(findTestObject('AddProduct_Page/input_nama_nama'), 'Lampu')
 
-WebUI.setText(findTestObject('AddProduct_Page/input_deskripsi_deskripsi'), 'Daging Kambing')
+WebUI.setText(findTestObject('AddProduct_Page/input_deskripsi_deskripsi'), 'Philips')
 
 WebUI.setText(findTestObject('AddProduct_Page/input_harga beli_harga beli'), '16000')
 
 WebUI.setText(findTestObject('AddProduct_Page/input_harga jual_harga jual'), '20000')
 
-WebUI.setText(findTestObject('AddProduct_Page/input_stok_stok'), '300')
+WebUI.setText(findTestObject('AddProduct_Page/input_stok_stok'), '40')
 
 WebUI.click(findTestObject('AddProduct_Page/div_kategori_chakra-input__right-addon css-7nrq'))
 
