@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add Penjualan Barang</description>
+   <name>TC-006</name>
+   <tag>@penjualan</tag>
+   <comment></comment>
+   <testCaseGuid>d7f37600-6dba-4f06-8b09-256f76989636</testCaseGuid>
+</TestCaseEntity>

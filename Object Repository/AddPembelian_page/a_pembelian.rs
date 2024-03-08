@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_pembelian</name>
+   <tag></tag>
+   <elementGuidId>9daf1d3f-f922-4ca2-b3fe-d196d66a1a33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div/h2/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.chakra-heading.css-18j379d > a:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3cc96f14-3c2d-4989-bddc-81c53f2254df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/purchases</value>
+      <webElementGuid>8b7e8d74-6ad2-4504-bef7-d271f66d777a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>/ pembelian  </value>
+      <webElementGuid>801657d3-eaf4-4c9e-aeb6-1c41bf1dad21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1r35f0l&quot;]/div[@class=&quot;chakra-container css-9rmdie&quot;]/div[@class=&quot;css-tyo1sz&quot;]/h2[@class=&quot;chakra-heading css-18j379d&quot;]/a[2]</value>
+      <webElementGuid>c14e4924-af8e-423d-89c8-1cc64d5ff629</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/h2/a[2]</value>
+      <webElementGuid>2f8998a0-6915-44be-8c05-77c64ef88774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dashboard'])[2]/following::a[1]</value>
+      <webElementGuid>daa6710d-b425-4cc7-9114-8c66b9e7f063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='logout'])[1]/following::a[2]</value>
+      <webElementGuid>4847b950-1980-4a15-995f-9b2a0f4f24c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tambah'])[1]/preceding::a[1]</value>
+      <webElementGuid>87508888-da20-4c9e-bfbd-fbee9818620d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous Month'])[1]/preceding::a[2]</value>
+      <webElementGuid>e87e14a2-f735-4dd3-b5e9-be6125a95aed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='/']/parent::*</value>
+      <webElementGuid>55773157-1211-47fa-b3ce-4ff610f96870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/purchases')])[2]</value>
+      <webElementGuid>0162e53e-62d3-4644-85e1-c14aec69d6fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a[2]</value>
+      <webElementGuid>d72b309d-ecc7-4a28-963e-24edabac94c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/purchases' and (text() = '/ pembelian  ' or . = '/ pembelian  ')]</value>
+      <webElementGuid>25160ff4-5fd0-471b-9004-6f93c7ec3e56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

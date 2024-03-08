@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_pembelian</name>
+   <tag></tag>
+   <elementGuidId>cce1bf94-d226-4cad-b6a6-380f5c7e1c03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/a[4]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(4) > div.css-ewi1jp > div.css-1xhj18k > div.css-1mqa38q</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>64bcf324-1a33-4edf-8eb2-ca4a033ae0a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1mqa38q</value>
+      <webElementGuid>8435e5ad-b81c-4908-98e2-5788f3ab6504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>pembelian</value>
+      <webElementGuid>196398bd-1251-4a4d-ae11-3fa056332f1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-tnxwfz&quot;]/div[@class=&quot;chakra-stack css-owjkmg&quot;]/a[4]/div[@class=&quot;css-ewi1jp&quot;]/div[@class=&quot;css-1xhj18k&quot;]/div[@class=&quot;css-1mqa38q&quot;]</value>
+      <webElementGuid>6ca817c2-0ecb-4552-acec-1233ec347759</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/a[4]/div/div/div</value>
+      <webElementGuid>ddbbc1f4-54cf-45d7-b245-60031c530219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='penjualan'])[1]/following::div[3]</value>
+      <webElementGuid>2e3b11f6-0783-416c-81c1-bdd2ec37b726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kasir'])[1]/following::div[6]</value>
+      <webElementGuid>68aef34e-8147-4b10-8bdd-5dcc2dd3007c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kategori'])[1]/preceding::div[1]</value>
+      <webElementGuid>6f7f1f11-1b2c-4f36-9711-c08fc4fb7c5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='produk'])[1]/preceding::div[4]</value>
+      <webElementGuid>f1c9b9c4-88b9-433c-932e-0b6f25d4c5a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='pembelian']/parent::*</value>
+      <webElementGuid>d7d9b4e4-8950-4452-913f-c46ab584f06f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/div/div/div</value>
+      <webElementGuid>c0e448cc-fcbd-4e7f-a69d-37ec8cd2855d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'pembelian' or . = 'pembelian')]</value>
+      <webElementGuid>3f3026fb-8a38-4f0f-9ffe-4522a8d93716</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
